@@ -1,0 +1,41 @@
+# ==================== 敏感信息 ====================
+config.py
+config.json
+.env
+.env.local
+*.pem
+*.key
+secret.py
+*.log
+logs/
+
+# ==================== Python 相关 ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+*.db
+*.sqlite
+
+# ==================== IDE/编辑器 ====================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==================== 系统文件 ====================
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# ==================== 依赖/构建 ====================
+node_modules/
+dist/
+build/
