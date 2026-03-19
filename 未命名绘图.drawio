@@ -1,0 +1,234 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
+  <diagram id="dpWlxnjXPs8T1NCZW1N_" name="第 1 页">
+    <mxGraphModel dx="1418" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="80" width="720" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="n1" parent="1" style="whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" value="绪论" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2" parent="1" style="whiteSpace=wrap;html=1;" value="研究背景" vertex="1">
+          <mxGeometry height="40" width="100" x="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="whiteSpace=wrap;html=1;" value="思路与方法" vertex="1">
+          <mxGeometry height="40" width="100" x="360" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" parent="1" style="whiteSpace=wrap;html=1;" value="内容与框架" vertex="1">
+          <mxGeometry height="40" width="100" x="500" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" parent="1" style="whiteSpace=wrap;html=1;" value="意义与创新" vertex="1">
+          <mxGeometry height="40" width="100" x="640" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="80" width="600" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="现状分析" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" parent="1" style="whiteSpace=wrap;html=1;" value="绿债发展历程" vertex="1">
+          <mxGeometry height="40" width="100" x="220" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="n8" parent="1" style="whiteSpace=wrap;html=1;" value="绿债发行现状" vertex="1">
+          <mxGeometry height="40" width="100" x="360" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="n9" parent="1" style="whiteSpace=wrap;html=1;" value="ESG 披露现状" vertex="1">
+          <mxGeometry height="40" width="100" x="500" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="g3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="130" width="720" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n10" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="理论基础" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" parent="1" style="whiteSpace=wrap;html=1;" value="制度压力理论" vertex="1">
+          <mxGeometry height="30" width="110" x="230" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="n12" parent="1" style="whiteSpace=wrap;html=1;" value="监督治理理论" vertex="1">
+          <mxGeometry height="30" width="110" x="230" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" parent="1" style="whiteSpace=wrap;html=1;" value="资源依赖理论" vertex="1">
+          <mxGeometry height="30" width="110" x="230" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="l1" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="文献综述" vertex="1">
+          <mxGeometry height="40" width="100" x="480" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="l2" parent="1" style="whiteSpace=wrap;html=1;" value="绿色债券相关研究" vertex="1">
+          <mxGeometry height="25" width="130" x="610" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="l3" parent="1" style="whiteSpace=wrap;html=1;" value="ESG表现相关研究" vertex="1">
+          <mxGeometry height="25" width="130" x="610" y="292.5" as="geometry" />
+        </mxCell>
+        <mxCell id="l4" parent="1" style="whiteSpace=wrap;html=1;" value="绿债对ESG的影响" vertex="1">
+          <mxGeometry height="25" width="130" x="610" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="g4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="130" width="720" x="40" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="n14" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="研究假设" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" parent="1" style="whiteSpace=wrap;html=1;align=left;paddingLeft=10;" value="H1：绿债发行正向影响银行 ESG 绩效 (直接效应)" vertex="1">
+          <mxGeometry height="30" width="450" x="220" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="h2" parent="1" style="whiteSpace=wrap;html=1;align=left;paddingLeft=10;" value="H2：资产规模在绿债发行与 ESG 绩效间起调节作用 (调节效应)" vertex="1">
+          <mxGeometry height="30" width="450" x="220" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="h3" parent="1" style="whiteSpace=wrap;html=1;align=left;paddingLeft=10;" value="H3：绿债发行通过绿色信贷配置提升 ESG 绩效 (中介效应)" vertex="1">
+          <mxGeometry height="30" width="450" x="220" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="g5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="240" width="720" x="40" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="n16" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="实证分析" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" parent="1" style="whiteSpace=wrap;html=1;" value="基准回归" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="r1_1" parent="1" style="whiteSpace=wrap;html=1;" value="个体固定效应模型" vertex="1">
+          <mxGeometry height="30" width="150" x="360" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" parent="1" style="whiteSpace=wrap;html=1;" value="调节效应" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="r2_1" parent="1" style="whiteSpace=wrap;html=1;" value="调节变量：银行资产规模" vertex="1">
+          <mxGeometry height="30" width="180" x="360" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="r3" parent="1" style="whiteSpace=wrap;html=1;" value="中介效应" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="r3_1" parent="1" style="whiteSpace=wrap;html=1;" value="中介变量：绿色信贷配置" vertex="1">
+          <mxGeometry height="30" width="180" x="360" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="r4" parent="1" style="whiteSpace=wrap;html=1;" value="稳健性检验" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="r5" parent="1" style="whiteSpace=wrap;html=1;" value="异质性分析" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="r5_1" parent="1" style="whiteSpace=wrap;html=1;" value="分维度 / 银行类型异质性" vertex="1">
+          <mxGeometry height="30" width="180" x="360" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="g6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="80" width="460" x="40" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="n17" parent="1" style="whiteSpace=wrap;html=1;fontStyle=1" value="结论与建议" vertex="1">
+          <mxGeometry height="40" width="100" x="60" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" parent="1" style="whiteSpace=wrap;html=1;" value="研究结论" vertex="1">
+          <mxGeometry height="40" width="100" x="220" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="n19" parent="1" style="whiteSpace=wrap;html=1;" value="政策建议" vertex="1">
+          <mxGeometry height="40" width="100" x="360" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="v1" edge="1" parent="1" source="n1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=1.5;" target="n6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v2" edge="1" parent="1" source="n6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=1.5;" target="n10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v3" edge="1" parent="1" source="n10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=1.5;" target="n14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v4" edge="1" parent="1" source="n14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=1.5;" target="n16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v5" edge="1" parent="1" source="n16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=1.5;" target="n17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="el_new" edge="1" parent="1" source="n6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;" target="l1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="230" />
+              <mxPoint x="530" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="el2" edge="1" parent="1" source="l1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="l2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="el3" edge="1" parent="1" source="l1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="l3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="el4" edge="1" parent="1" source="l1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="l4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="n1" target="n2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQy75hIPAxtL6o9nykTz-7" edge="1" parent="1" source="n2" target="n3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQy75hIPAxtL6o9nykTz-8" edge="1" parent="1" source="n3" target="n4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQy75hIPAxtL6o9nykTz-9" edge="1" parent="1" source="n4" target="n5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="n6" target="n7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQy75hIPAxtL6o9nykTz-5" edge="1" parent="1" source="n7" target="n8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQy75hIPAxtL6o9nykTz-6" edge="1" parent="1" source="n8" target="n9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ei1" edge="1" parent="1" source="n10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="n11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ei2" edge="1" parent="1" source="n10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="n12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ei3" edge="1" parent="1" source="n10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="n13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eh1" edge="1" parent="1" source="n14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="h1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eh2" edge="1" parent="1" source="n14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="h2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eh3" edge="1" parent="1" source="n14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="h3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er1" edge="1" parent="1" source="n16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="r1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er2" edge="1" parent="1" source="n16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="r2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er3" edge="1" parent="1" source="n16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="r3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er4" edge="1" parent="1" source="n16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="r4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="er5" edge="1" parent="1" source="n16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;" target="r5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="es1" edge="1" parent="1" source="r1" target="r1_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="es2" edge="1" parent="1" source="r2" target="r2_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="es3" edge="1" parent="1" source="r3" target="r3_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="es5" edge="1" parent="1" source="r5" target="r5_1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ec1" edge="1" parent="1" source="n17" target="n18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQy75hIPAxtL6o9nykTz-10" edge="1" parent="1" source="n18" target="n19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
